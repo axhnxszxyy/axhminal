@@ -1,5 +1,3 @@
-<h1 align="center"><img src="https://github.com/nvkomimi/nominal/assets/76652465/aa417518-22d3-4654-8fb1-9cd6c88cd570"></h1>
-
 ![mainpreview](assets/mainpreview.png)
 ![nitrocolourpreview](assets/nitrocolourpreview.png)
 
