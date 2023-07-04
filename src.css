@@ -154,6 +154,9 @@ nav div[class^="searchBar-"] {
 [class^="nameTag-"] {
     user-select: none !important;
 }
+[class^="userPopoutInner-"] [aria-label="Set Status"] {
+    background: none!important;
+}
 
 [class^=menu-],[class^=submenu-] {
     border-radius: 0.5em;
