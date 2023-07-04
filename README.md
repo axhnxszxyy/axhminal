@@ -7,7 +7,7 @@ Nominal tweaks discord in way to stay close to the original, be quickly adaptive
 
 So how should it be used? With other themes! (...or just on it's own, if you want)
 
-Here's Nominal used with Rose Pine discord theme
+Here's Nominal used with Rosé Pine discord theme
 
 ![image](https://github.com/nvkomimi/nominal/assets/76652465/ca198276-00b0-4b98-8be0-aa29d93db4cb)
 
