@@ -7,11 +7,15 @@
 
 Nominal tweaks discord in way to stay close to the original, be quickly adaptive to changes and mainly improve the design at least a little bit.
 
-It's basically simple eye-candy for an ugly app.
+So how should it be used? With other themes! (...or just on it's own, if you want)
+
+Here's Nominal used with Rose Pine discord theme
+
+![image](https://github.com/nvkomimi/nominal/assets/76652465/ca198276-00b0-4b98-8be0-aa29d93db4cb)
 
 ## Features
 
-- Nitro Colour Theme friendly
+- Nitro Colour and other theme friendly
 - Cute accent colours for checkboxes and selections
 - Removes most Nitro promos, useless stuff and hides welcome stickers
 - Blurred context menus and backdrops
@@ -24,7 +28,7 @@ It's basically simple eye-candy for an ugly app.
 
 or [install with Stylus](clients/nominal.user.css)
 
-## Personalization
+## Personalization (when used on it's own)
 
 Change the colours by using this in your quick css!
 
@@ -47,4 +51,4 @@ Feel free to [open issues](https://github.com/nvkomimi/nominal/issues/new/choose
 
 ## Licensing
 
-[MIT](LICENSE)
+[MIT](LICENSE.md)
