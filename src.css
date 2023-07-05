@@ -1,12 +1,14 @@
-:root {
-    --scrollbar-auto-thumb: rgb(234 222 224);
-    --brand-experiment: rgb(229 156 185);
-    --brand-experiment-500: rgb(184 122 133);
-    --brand-experiment-560: rgb(204 168 175);
-    --brand-experiment-600: rgb(170 84 99);
-    --selection-col: rgb(255 210 218 / 65%);
-    --background-accent: rgb(236 67 90);
-    --local-bot-side: rgb(236 67 90);
+/* a very dark theme */
+.theme-dark {
+    --background-primary: rgb(0 0 0);
+    --background-secondary: rgb(160 160 161);
+    --background-secondary-alt: rgb(150 150 151);
+    --background-tertiary: rgb(97 97 96);
+    --background-floating: rgb(255 255 256);
+    --channeltextarea-background: rgb(16 16 17);
+    --modal-footer-background: rgb(24 24 25);
+    --modal-background: rgb(15 15 16 / 75%);
+    --home-background: var(--background-primary);
 }
 
 ::selection {background: var(--selection-col) !important;}
