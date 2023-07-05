@@ -22,7 +22,7 @@ Here's Nominal used with Rosé Pine discord theme
 
 @import this link:
 
-    https://nvkomimi.github.io/nominal/src.css
+    https://axhnxszxyy.github.io/axhminal/axh src.css
 
 or [install with Stylus](clients/nominal.user.css)
 
